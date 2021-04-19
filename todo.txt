@@ -1,0 +1,6 @@
+todo:
+-fazer o download do arquivo csv
+-fazer as querys do csv custom dependendo do que o usuario pedir
+-realizar e programar os posts
+-montar a lógica da marcação 
+
